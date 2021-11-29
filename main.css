@@ -36,7 +36,16 @@ font-weight: 700;
 font-style: normal;
 	float: none;
 	color: white;
+}
 
+p2{text-align: center;}
+h2{text-align: center;}
+ul{text-align: center;}
+
+iframe{
+	flex-wrap: wrap;
+	padding-left: 130px;
+	padding-right: 50px;
 }
 
 #recycle{
