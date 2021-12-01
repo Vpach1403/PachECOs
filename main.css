@@ -43,9 +43,8 @@ h2{text-align: center;}
 ul{text-align: center;}
 
 iframe{
-	flex-wrap: wrap;
+	align-items: center;
 	padding-left: 130px;
-	padding-right: 50px;
 }
 
 #recycle{
